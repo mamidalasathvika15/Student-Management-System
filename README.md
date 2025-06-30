@@ -30,27 +30,32 @@ This is a simple **Student Management System** developed using **Python**. It he
 ## 📷 Screenshots
 
 ### ✅ 1. Student Enrollment  
-![Enrollment Screenshot](/mnt/data/17531bcb-cd06-464f-a818-d78fe5b734dd.png)
+![image](https://github.com/user-attachments/assets/7208f6a2-9ee7-4468-ae23-7f815fc85277)
+
 
 ---
 
 ### 📄 2. Viewing Enrolled Students  
-![View Students Screenshot](/mnt/data/c3be3d73-9b9c-4504-abfe-2d009aef9342.png)
+![image](https://github.com/user-attachments/assets/cd214014-f070-4908-8e35-d8e46d2d9049)
+
 
 ---
 
 ### 🗓️ 3. Marking Attendance  
-![Mark Attendance Screenshot](/mnt/data/90e50966-5262-490a-a259-aa53d4b07254.png)
+![image](https://github.com/user-attachments/assets/f8cb9966-f2a8-4908-8f0a-e0635d948131)
+
 
 ---
 
 ### 📆 4. Viewing Attendance Records  
-![View Attendance Screenshot](/mnt/data/0e1b506a-862d-4986-b7f3-27a6ca86621a.png)
+![image](https://github.com/user-attachments/assets/9f2b1cbf-9bce-41e7-8690-eef3e5791d58)
+
 
 ---
 
 ### 📝 5. Adding & Viewing Grades  
-![Grades Screenshot](/mnt/data/6b8d0af3-02dc-4cac-aec7-8a788c762731.png)
+![image](https://github.com/user-attachments/assets/cbc44cf2-e834-42c1-b4c0-e99cae06cc8d)
+
 
 ---
 
@@ -78,13 +83,12 @@ This is a simple **Student Management System** developed using **Python**. It he
 * `attendance.csv` – Stores attendance by date
 * `grades.csv` – Stores grades/marks by student and subject
 
----
 
 ## 🙌 Acknowledgements
 
 This project was developed as part of a **Python-based file handling system** for learning purposes without using SQL or external databases.
 
----
+
 
 ## 📌 Note
 
@@ -92,7 +96,7 @@ This project was developed as part of a **Python-based file handling system** fo
 * Files will be auto-created when features are used.
 * Keep CSVs clean and structured to avoid errors.
 
----
+
 
 ✅ **Developed By:** MAMIDALA SATHVIKA
 🗓️ **Date:** June–July 2025
