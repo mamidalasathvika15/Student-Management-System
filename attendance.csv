@@ -1,0 +1,6 @@
+Date,ID,Status
+2025-07-04,"    with open(""students.csv""",Present
+2025-07-04,"            writer.writerow([""ID""",Absent
+2025-07-04,        writer.writerow([student_id,Present
+2025-07-04,23,Present
+2025-07-04,21,Absent

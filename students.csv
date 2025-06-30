@@ -1,0 +1,26 @@
+import csv
+import os
+
+def enroll_student():
+    file_exists = os.path.isfile("students.csv")
+    
+    with open("students.csv", mode='a', newline='') as file:
+        writer = csv.writer(file)
+
+        if not file_exists:
+            writer.writerow(["ID", "Name", "Class", "Email"])  # write header if file doesn't exist
+
+        student_id = input("Enter Student ID: ")
+        name = input("Enter Student Name: ")
+        student_class = input("Enter Class: ")
+        email = input("Enter Email: ")
+
+        writer.writerow([student_id, name, student_class, email])
+        print(f"✅ Student '{name}' enrolled successfully!")
+``
+23,Sathvika,(,sath@gmail.com
+21,sath,4,sath@gmail.com
+23,Sathvika,6,Sathvika@gmail.com
+27,keerthana,6,keerthana@gmail.com
+47,Tejasv,6,Tejasv@gmail.com
+52,Rahul,6,Rahul@gmail.com
